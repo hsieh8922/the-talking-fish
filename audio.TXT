@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="UTF-8">
+  <title>老師朗讀音檔播放平台</title>
+  <style>
+    body {
+      font-family: "Microsoft JhengHei", sans-serif;
+      background-color: #f4f4f4;
+      padding: 30px;
+      color: #333;
+    }
+    h1 {
+      color: #1976d2;
+    }
+    .audio-block {
+      background: #fff;
+      padding: 20px;
+      margin-bottom: 20px;
+      border-radius: 8px;
+      box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+    }
+    .audio-block h2 {
+      margin-top: 0;
+      font-size: 18px;
+    }
+  </style>
+</head>
+<body>
+  <h1>老師朗讀音檔播放平台</h1>
+
+  <div class="audio-block">
+    <h2>01. 全部</h2>
+    <audio controls src="https://drive.google.com/uc?export=download&id=1yAlC5xkQ9neOaa_Kjrm7tkiuUpYR6tab"></audio>
+  </div>
+
+  <div class="audio-block">
+    <h2>02. a - one, two, three</h2>
+    <audio controls src="https://drive.google.com/uc?export=download&id=1dFg4qXpTWujHmVzB3I9WFJxSfCFYrDUJ"></audio>
+  </div>
+
+  <div class="audio-block">
+    <h2>03. b - live</h2>
+    <audio controls src="https://drive.google.com/uc?export=download&id=1bxvk2LNGwnp-itSNI9Jo-8zYGI8uURxl"></audio>
+  </div>
+
+  <div class="audio-block">
+    <h2>04. c - meanwhile</h2>
+    <audio controls src="https://drive.google.com/uc?export=download&id=1begEwQbPAGxYnoZ4ApHLgWjfVkimp8us"></audio>
+  </div>
+
+  <div class="audio-block">
+    <h2>05. d - The fishman thought</h2>
+    <audio controls src="https://drive.google.com/uc?export=download&id=1xtYqaqWlQ6iAzww-G8_bCpbVd9lrTJzX"></audio>
+  </div>
+
+</body>
+</html>
